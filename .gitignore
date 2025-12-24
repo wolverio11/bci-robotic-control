@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/*
+!data/README.md
+
+# ROS2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# OS
+.DS_Store
+Thumbs.db
